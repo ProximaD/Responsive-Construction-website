@@ -1,15 +1,16 @@
-# Sandra Lavenda's Portfolio - construction-website-01
+# Sandra Lavenda's Portfolio
 
-This is my programming portfolio that details my past and present projects. 
+# Responsive-Construction-Website
 
-# Built With 
-. HTML5 
-. CSS3
-.Javascript
+Responsive-Construction-website with:
+1. Beautiful Construction Website using HTML5, CSS3 and JAVASCRIPT. 
+2. Engaging animations transitions when scrolling. 
+4. Developed first with the Mobile First methodology, then for desktop. 
+5. Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 # Getting Started 
 
-# This is my portfolio project designed HTML5, CSS3 and Javascript. Take it and make your own by setting it up in your local environment. Flow the steps below
+# This is my portfolio project designed HTML5 and CSS3. Take it and make your own by setting it up in your local environment. Flow the steps below
 
 To get a local copy up and running follow these simple steps.
 
@@ -41,3 +42,13 @@ git clone https://github.com/ProximaD/Portfolio.git
 GitHub: ProximaD
 
 Profile: ProximaD.github.io
+
+# Acknowledgments
+
+Hat tip to anyone whose code was used as Inspiration 
+
+
+
+
+
+
